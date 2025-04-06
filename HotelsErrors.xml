@@ -1,0 +1,70 @@
+<Hotel>
+  <!-- Hotel with missing required attribute -->
+  <!-- Error 2: Missing required NearestAirport attribute for Address element -->
+  <Hotel Rating="4.2">
+    <n>Westin</n>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Error 3: Missing Phone element -->
+  <Hotel Rating="4.8">
+    <n>Ritz-Carlton</n>
+    <!-- Phone element is missing here -->
+    <Address NearestAirport="Sky Harbor">
+      <Number>7575</Number>
+      <Street>E Princess Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85255</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Error 4: Address element has no closing tag -->
+  <Hotel Rating="4.5">
+    <n>Marriott Marquis</n>
+    <Phone>212-398-1900</Phone>
+    <Address NearestAirport="JFK International">
+      <Number>1535</Number>
+      <Street>Broadway</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10036</Zip>
+    <!-- Missing closing tag for Address -->
+  </Hotel>
+  
+  <!-- Error 5: Two names provided for one hotel -->
+  <Hotel>
+    <n>Hilton Chicago</n>
+    <n>Hilton Downtown</n>
+    <Phone>312-922-4400</Phone>
+    <Address NearestAirport="O'Hare International">
+      <Number>720</Number>
+      <Street>S Michigan Ave</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60605</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Additional hotels without errors -->
+  <Hotel Rating="4.7">
+    <n>Four Seasons</n>
+    <Phone>617-338-4400</Phone>
+    <Phone>800-819-5053</Phone>
+    <Address NearestAirport="Logan International">
+      <Number>200</Number>
+      <Street>Boylston St</Street>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zip>02116</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
