@@ -1,0 +1,138 @@
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.8">
+    <Name>Ritz-Carlton</Name>
+    <Phone>480-941-8200</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>7575</Number>
+      <Street>E Princess Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85255</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.5">
+    <Name>Marriott Marquis</Name>
+    <Phone>212-398-1900</Phone>
+    <Phone>800-843-4898</Phone>
+    <Address NearestAirport="JFK International">
+      <Number>1535</Number>
+      <Street>Broadway</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10036</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Hilton Chicago</Name>
+    <Phone>312-922-4400</Phone>
+    <Address NearestAirport="O'Hare International">
+      <Number>720</Number>
+      <Street>S Michigan Ave</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60605</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.7">
+    <Name>Four Seasons</Name>
+    <Phone>617-338-4400</Phone>
+    <Phone>800-819-5053</Phone>
+    <Address NearestAirport="Logan International">
+      <Number>200</Number>
+      <Street>Boylston St</Street>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zip>02116</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Waldorf Astoria</Name>
+    <Phone>702-590-8888</Phone>
+    <Address NearestAirport="McCarran International">
+      <Number>3752</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89158</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.6">
+    <Name>Fairmont San Francisco</Name>
+    <Phone>415-772-5000</Phone>
+    <Phone>866-540-4491</Phone>
+    <Address NearestAirport="San Francisco International">
+      <Number>950</Number>
+      <Street>Mason St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94108</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.3">
+    <Name>Hyatt Regency</Name>
+    <Phone>312-565-1234</Phone>
+    <Address NearestAirport="Midway International">
+      <Number>151</Number>
+      <Street>E Wacker Dr</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Sheraton Grand</Name>
+    <Phone>206-621-9000</Phone>
+    <Address NearestAirport="Seattle-Tacoma International">
+      <Number>1400</Number>
+      <Street>6th Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.4">
+    <Name>The Peninsula</Name>
+    <Phone>312-337-2888</Phone>
+    <Phone>866-288-8889</Phone>
+    <Address NearestAirport="O'Hare International">
+      <Number>108</Number>
+      <Street>E Superior St</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60611</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.9">
+    <Name>Montage Beverly Hills</Name>
+    <Phone>310-860-7800</Phone>
+    <Address NearestAirport="Los Angeles International">
+      <Number>225</Number>
+      <Street>N Canon Dr</Street>
+      <City>Beverly Hills</City>
+      <State>CA</State>
+      <Zip>90210</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
