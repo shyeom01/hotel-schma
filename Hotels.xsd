@@ -11,7 +11,7 @@
   <xsd:complexType name="Component1">
     <xsd:sequence>
       <xsd:element name="Name" type="xsd:string"/>
-      <xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
+      <xsd:element name="Phone" type="xsd:string" maxOccurs="unbounded"/>
       <xsd:element name="Address" type="component2"/>
     </xsd:sequence>
     <xsd:attribute name="Rating" type="xsd:string" use="optional"/>
