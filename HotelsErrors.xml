@@ -1,7 +1,7 @@
 <Hotel>
   <!-- Missing required NearestAirport-->
   <Hotel Rating="4.2">
-    <n>Westin</n>
+    <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Address>
@@ -15,7 +15,7 @@
   
   <!-- Missing number-->
   <Hotel Rating="4.8">
-    <n>Ritz-Carlton</n>
+    <Name>Ritz-Carlton</Name>
     <Address NearestAirport="Sky Harbor">
       <Number>7575</Number>
       <Street>E Princess Dr</Street>
@@ -27,7 +27,7 @@
   
   <!-- no closing tag -->
   <Hotel Rating="4.5">
-    <n>Marriott Marquis</n>
+    <Name>Marriott Marquis</Name>
     <Phone>212-398-1900</Phone>
     <Address NearestAirport="JFK International">
       <Number>1535</Number>
@@ -39,8 +39,8 @@
   
   <!-- error name -->
   <Hotel>
-    <n>Hilton Chicago</n>
-    <n>Hilton Downtown</n>
+    <Name>Hilton Chicago</Name>
+    <Name>Hilton Downtown</Name>
     <Phone>312-922-4400</Phone>
     <Address NearestAirport="O'Hare International">
       <Number>720</Number>
@@ -52,7 +52,7 @@
   </Hotel>
   
   <Hotel Rating="4.7">
-    <n>Four Seasons</n>
+    <Name>Four Seasons</Name>
     <Phone>617-338-4400</Phone>
     <Phone>800-819-5053</Phone>
     <Address NearestAirport="Logan International">
