@@ -3,7 +3,7 @@
     <Name>Westin</Name>
     <Phone>123-456-7890</Phone>
     <Phone>123-456-7891</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -15,7 +15,7 @@
   <Hotel Rating="4.8">
     <Name>Ritz-Carlton</Name>
     <Phone>123-456-7892</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>7575</Number>
       <Street>E Princess Dr</Street>
       <City>Scottsdale</City>
@@ -28,7 +28,7 @@
     <Name>Marriott Marquis</Name>
     <Phone>123-456-7893</Phone>
     <Phone>123-456-7894</Phone>
-    <Address NearestAirport="JFK International">
+    <Address NearstAirport="JFK International">
       <Number>1535</Number>
       <Street>Broadway</Street>
       <City>New York</City>
@@ -40,7 +40,7 @@
   <Hotel>
     <Name>Hilton Chicago</Name>
     <Phone>123-456-7895</Phone>
-    <Address NearestAirport="O'Hare International">
+    <Address NearstAirport="O'Hare International">
       <Number>720</Number>
       <Street>S Michigan Ave</Street>
       <City>Chicago</City>
@@ -53,7 +53,7 @@
     <Name>Four Seasons</Name>
     <Phone>123-456-7896</Phone>
     <Phone>123-456-7897</Phone>
-    <Address NearestAirport="Logan International">
+    <Address NearstAirport="Logan International">
       <Number>200</Number>
       <Street>Boylston St</Street>
       <City>Boston</City>
@@ -65,7 +65,7 @@
   <Hotel>
     <Name>Waldorf Astoria</Name>
     <Phone>123-456-7898</Phone>
-    <Address NearestAirport="McCarran International">
+    <Address NearstAirport="McCarran International">
       <Number>3752</Number>
       <Street>Las Vegas Blvd S</Street>
       <City>Las Vegas</City>
@@ -78,7 +78,7 @@
     <Name>Fairmont San Francisco</Name>
     <Phone>123-456-7899</Phone>
     <Phone>123-456-7900</Phone>
-    <Address NearestAirport="San Francisco International">
+    <Address NearstAirport="San Francisco International">
       <Number>950</Number>
       <Street>Mason St</Street>
       <City>San Francisco</City>
@@ -90,7 +90,7 @@
   <Hotel Rating="4.3">
     <Name>Hyatt Regency</Name>
     <Phone>123-456-7901</Phone>
-    <Address NearestAirport="Midway International">
+    <Address NearstAirport="Midway International">
       <Number>151</Number>
       <Street>E Wacker Dr</Street>
       <City>Chicago</City>
@@ -102,7 +102,7 @@
   <Hotel>
     <Name>Sheraton Grand</Name>
     <Phone>123-456-7902</Phone>
-    <Address NearestAirport="Seattle-Tacoma International">
+    <Address NearstAirport="Seattle-Tacoma International">
       <Number>1400</Number>
       <Street>6th Ave</Street>
       <City>Seattle</City>
@@ -115,7 +115,7 @@
     <Name>The Peninsula</Name>
     <Phone>123-456-7903</Phone>
     <Phone>123-456-7904</Phone>
-    <Address NearestAirport="O'Hare International">
+    <Address NearstAirport="O'Hare International">
       <Number>108</Number>
       <Street>E Superior St</Street>
       <City>Chicago</City>
@@ -127,7 +127,7 @@
   <Hotel Rating="4.9">
     <Name>Montage Beverly Hills</Name>
     <Phone>123-456-7905</Phone>
-    <Address NearestAirport="Los Angeles International">
+    <Address NearstAirport="Los Angeles International">
       <Number>225</Number>
       <Street>N Canon Dr</Street>
       <City>Beverly Hills</City>
